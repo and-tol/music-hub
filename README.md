@@ -1,3 +1,6 @@
+About app
+This small app collects information from the world of music. And it allows you to keep up to date with popular music. And also choose a daily playlist.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
